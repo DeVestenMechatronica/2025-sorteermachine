@@ -17,7 +17,7 @@ Dit is een sorteermachine die blokjes gaat sorteren op basis van grootte.
 De loopband word aansgestuurd op digitale pin 8 (D8). Hierdoor kunnen we de loopband aan en uit zetten maar dit word nog niet gebruikt. Hiermee schakelen we de relais die die loopband(24V) zal aansturen.
 Op dit moment word het manueel bestuurd met een knop.
 
-!(images\IMG_20250520_091405682.jpg)
+![Foto aansluiting](images\IMG_20250520_091405682.jpg)
 
 ### Ultrasonensensor
 De ultrasonensensor zal de grootte van blokjes meten en vervolgens een signaal sturen naar de servo. Dit is mogelijk door en op maat gemaakt 3D geprinte houder die boven de loopband staat waardoor de sensor vast staat.
