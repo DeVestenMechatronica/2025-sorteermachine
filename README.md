@@ -27,7 +27,7 @@ Aansluiting:
 - Echo op D12
 - Trig op D10
 
-Link basis programma: https://projecthub.arduino.cc/Isaac100/getting-started-with-the-hc-sr04-ultrasonic-sensor-7cabe1 
+https://projecthub.arduino.cc/Isaac100/getting-started-with-the-hc-sr04-ultrasonic-sensor-7cabe1 
 
 ### Servomotor
 De arduino bestuurd de servo op basis van de input van de ultrasonesensor. Zo draait de servo 60 graden bij een signaal en anders niet.
@@ -37,3 +37,4 @@ Aansluiting:
 - +5V op 5V
 - DATA op D9
 https://training.funmetelectronica.nl/docs/arduino-basis/lessen/les-8-servo-met-pot/ 
+
